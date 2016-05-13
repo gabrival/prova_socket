@@ -81,7 +81,7 @@ namespace Socket_4I
             byte[] messaggio = Encoding.UTF8.GetBytes(txtMessaggio.Text);
 
             socket.SendTo(messaggio, remote_endpoint);
-            MessageBox.Show("fine SPEDIZIONE...asdfasd..");
+            MessageBox.Show("fine SPEDIZIONE...asdfasd.xxxx.");
         }
     }
 }
