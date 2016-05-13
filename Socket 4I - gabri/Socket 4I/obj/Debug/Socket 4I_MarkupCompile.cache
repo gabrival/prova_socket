@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\
+=======
+D:\4f sistemi\Socket 4I - gabri\Socket 4I\obj\Debug\
+>>>>>>> master
 Socket_4I
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\App.xaml
+=======
+D:\4f sistemi\Socket 4I - gabri\Socket 4I\App.xaml
+>>>>>>> master
 11151548125
 
 5-2017746502
