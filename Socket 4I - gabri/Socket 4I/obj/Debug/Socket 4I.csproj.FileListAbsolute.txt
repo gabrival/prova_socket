@@ -29,3 +29,20 @@ D:\4f sistemi\Socket 4I - gabri\Socket 4I\obj\Debug\MainWindow.baml
 D:\4f sistemi\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.g.resources
 D:\4f sistemi\Socket 4I - gabri\Socket 4I\obj\Debug\Socket_4I.Properties.Resources.resources
 D:\4f sistemi\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\bin\Debug\Socket 4I.exe.config
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.exe
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.pdb
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\bin\Debug\Socket 4I.exe
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\bin\Debug\Socket 4I.pdb
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.csprojResolveAssemblyReference.cache
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\MainWindow.g.cs
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\App.g.cs
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.cache
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.lref
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\MainWindow.baml
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.g.resources
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket_4I.Properties.Resources.resources
+C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.Cache
+=======
+>>>>>>> master

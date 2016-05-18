@@ -73,6 +73,10 @@ namespace Socket_4I
 
         private void btnInvia_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
+            MessageBox.Show("AVVIO SPEDIZIONE");
+=======
+>>>>>>> master
             IPAddress remote_address = IPAddress.Parse(txtTo.Text);
 
             IPEndPoint remote_endpoint = new IPEndPoint(remote_address, 11000);
@@ -80,6 +84,10 @@ namespace Socket_4I
             byte[] messaggio = Encoding.UTF8.GetBytes(txtMessaggio.Text);
 
             socket.SendTo(messaggio, remote_endpoint);
+<<<<<<< HEAD
+            MessageBox.Show("fine SPEDIZIONE...asdfasd.xxxx.");
+=======
+>>>>>>> master
         }
     }
 }
