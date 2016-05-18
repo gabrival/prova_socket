@@ -46,3 +46,6 @@ C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Deb
 C:\Users\gabriella\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.Cache
 =======
 >>>>>>> master
+C:\Users\casa\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\bin\Debug\Socket 4I.exe.config
+C:\Users\casa\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.exe
+C:\Users\casa\Source\Repos\prova_socket\Socket 4I - gabri\Socket 4I\obj\Debug\Socket 4I.pdb
