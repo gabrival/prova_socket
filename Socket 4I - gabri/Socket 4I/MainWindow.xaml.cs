@@ -85,7 +85,7 @@ namespace Socket_4I
 
             MessageBox.Show("fine SPEDIZIONE...asdfasd.xxxx.");
 
-            MessageBox.Show("questo è il messaggio del ramo1");
+            MessageBox.Show("questo è il messaggio nuovo");
         }
     }
 }
