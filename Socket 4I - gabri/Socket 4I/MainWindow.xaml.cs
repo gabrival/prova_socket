@@ -73,7 +73,7 @@ namespace Socket_4I
 
         private void btnInvia_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("AVVIO SPEDIZIONE");
+       
 
             IPAddress remote_address = IPAddress.Parse(txtTo.Text);
 
@@ -83,7 +83,6 @@ namespace Socket_4I
 
             socket.SendTo(messaggio, remote_endpoint);
 
-            MessageBox.Show("fine SPEDIZIONE...asdfasd.xxxx.");
 
             MessageBox.Show("questo è il messaggio nuovo");
         }
