@@ -84,7 +84,7 @@ namespace Socket_4I
             socket.SendTo(messaggio, remote_endpoint);
 
 
-            MessageBox.Show("questo è il messaggio nuovo");
+            MessageBox.Show("questo è il messaggio del ramo1");
         }
     }
 }
